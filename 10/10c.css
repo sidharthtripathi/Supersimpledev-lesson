@@ -1,0 +1,29 @@
+.container{
+  
+  padding:3px;
+  margin: 5px;
+}
+.thumbnail,.info{
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5px;
+}
+.title{
+  height: 80px;
+  font-weight: bold;
+  font-size: x-large;
+}
+p{
+  margin-top: 5px;
+  width: 350px;
+}
+img{
+  object-fit: cover;
+  width:300px;
+}
+.stats{
+  margin-top: 30px;
+  line-height: 20px;
+  color: gray;
+  font-size: medium;
+}
