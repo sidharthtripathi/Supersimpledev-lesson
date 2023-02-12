@@ -1,0 +1,17 @@
+#model{
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+
+#order{
+  margin-top:10px;
+  text-align: center;
+  font-size: large;
+
+}
+
+#type{
+  text-decoration: underline;
+}
