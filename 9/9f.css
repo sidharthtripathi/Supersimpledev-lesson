@@ -1,0 +1,35 @@
+div{
+  display: inline-block;
+  padding:10px;
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 5px;
+  border-color: gray;
+  box-shadow: 1px 1px 3px gray;
+  
+}
+#dp{
+  height: 250px;
+  width: 200px;
+  object-fit: cover;
+}
+span{
+  display: block;
+}
+#name{
+  margin-top: 5px;
+  margin-bottom: 3px;
+  font-weight: 500;
+  font-size: large;
+}
+
+button{
+  border-radius: 4px;
+  margin-top: 4px;
+  cursor: pointer;
+  background-color: rgb(57,117,234);
+  color: white;
+  border:none;
+  height: 25px;
+
+}
